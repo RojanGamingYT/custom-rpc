@@ -1,8 +1,19 @@
-{ 	"applicationid":"882905395423739934",
+/*{ 	"applicationid":"882905395423739934",
  	"name":"Blender",
  	"details":"Editing",
  	"state":"Applying",
         "imagename":"blender",
         "smallimgname": "dedsec",
  	"type":"PLAYING"
+}*/
+
+{ 
+	"applicationid":"906069315558707230",
+ 	"name":"Aditya Codez",
+ 	"details":"Rpc With Small Image",
+ 	"state":"On Android",
+ 	"imagename":"ac1",
+  "smallimgname": "ac2",
+ 	"type":"PLAYING"
 }
+
