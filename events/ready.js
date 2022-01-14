@@ -1,15 +1,4 @@
-///////////////////////////////////
 
-//💙 Credit Infos 
-//💜 This Project Made By Aditya Codez
-//💛 Must Give Credits While Using 
-//💚 Support Server 
-//♥️ https://discord.gg/z6RMrphPXE
-//🔥 Youtube 
-//🙉 https://youtube.com/adityacodez
-//🏘️ ©Aditya Codez™
-
-///////////////////////////////////
 
 const chalk = require('chalk');
 const rpc = require("discordrpcgenerator");
@@ -38,17 +27,3 @@ module.exports = async(client) => {
   })
   console.log(chalk.hex("#ff0000")("Succesfully enabled rpc"))
            }
-
-
-///////////////////////////////////
-
-//💙 Credit Infos 
-//💜 This Project Made By Aditya Codez
-//💛 Must Give Credits While Using 
-//💚 Support Server 
-//♥️ https://discord.gg/z6RMrphPXE
-//🔥 Youtube 
-//🙉 https://youtube.com/adityacodez
-//🏘️ ©Aditya Codez™
-
-///////////////////////////////////
