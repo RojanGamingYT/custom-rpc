@@ -1,15 +1,4 @@
-///////////////////////////////////
 
-//💙 Credit Infos 
-//💜 This Project Made By Aditya Codez
-//💛 Must Give Credits While Using 
-//💚 Support Server 
-//♥️ https://discord.gg/z6RMrphPXE
-//🔥 Youtube 
-//🙉 https://youtube.com/adityacodez
-//🏘️ ©Aditya Codez™
-
-///////////////////////////////////
 
 const discord = require('discord.js-selfbot-v11');
 const fs = require('fs');
@@ -27,18 +16,3 @@ events.forEach(file => {
 
 keepAlive();
 client.login(process.env.token);
-
-
-
-///////////////////////////////////
-
-//💙 Credit Infos 
-//💜 This Project Made By Aditya Codez
-//💛 Must Give Credits While Using 
-//💚 Support Server 
-//♥️ https://discord.gg/z6RMrphPXE
-//🔥 Youtube 
-//🙉 https://youtube.com/adityacodez
-//🏘️ ©Aditya Codez™
-
-///////////////////////////////////
